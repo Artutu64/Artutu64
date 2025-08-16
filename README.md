@@ -2,7 +2,6 @@
 
 ## 👨‍💻 À propos de moi
 
-🎓 Étudiant en 3e année d’école d’ingénieur à **CY Tech Pau**, spécialité **Cybersécurité**  
 📍 Passionné par tout ce qui touche au **réseau**, à la **sécurité** et aux nombreux domaines liés à la **cybersécurité**  
 💻 J’explore et développe avec plusieurs langages :  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Java  
@@ -12,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• JavaScript  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Assembleur  
 
-🚀 Actuellement, je me plonge dans l’apprentissage de **Rust** pour renforcer mes compétences systèmes et bas niveau.
+🚀 Actuellement, je me plonge dans l’apprentissage de **Rust**.
 
 ---
 
