@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-Ingénieur cybersécurité de formation, je suis passionné par tout ce qui touche à l'analyse de malware (ainsi que les techniques utilisées par les pirates pour contourner les antivirus/EDR) et l'architecture réseau.
+Jeune ingénieur cybersécurité, je suis passionné par tout ce qui touche à l'analyse de malware (ainsi que les techniques utilisées par les pirates pour contourner les antivirus/EDR) et l'architecture réseau.
 </p>
 <br/>
 <p align="center">
-Cybersecurity engineer, I'm really fond of malware analysis (as well as techniques used by hackers to bypass antivirus/EDR) and network architecture.
+Young cybersecurity engineer, I'm really fond of malware analysis (as well as techniques used by hackers to bypass antivirus/EDR) and network architecture.
 </p>
 <br/>
 
